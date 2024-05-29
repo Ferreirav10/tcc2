@@ -1,0 +1,51 @@
+.FundoDoConteudo
+{
+    background-color:#003459;
+}
+.conteudo
+{
+    color: #003459;
+    background-color:#003459;
+    max-width: 1200px;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border: solid #003459;;
+    margin: auto;
+}
+
+.card1
+{
+  padding: 10px;
+  width: 200px;
+  height: 300px;
+  background-color: rgb(255, 255, 255);
+  color: #00171f;
+}
+
+.conteudo
+{
+    color:aliceblue;
+}
+
+.card2
+{
+    padding: 10px;
+    width: 200px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 136, 255);
+}
+
+.text1
+{
+    color: aliceblue;
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    background-color: #003459;
+    border: solid #003459;;
+}
+
